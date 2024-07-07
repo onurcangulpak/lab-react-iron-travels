@@ -1,0 +1,22 @@
+
+.gen { 
+display: flex;
+flex-direction: column;
+align-items: center;}
+.trip { 
+    border: solid black 1px;
+    margin: 20px;
+    width: 700px;
+    align-items: center;
+}
+.img img{ 
+margin: 10px 10px;
+height: 250px;
+
+}
+.info { 
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
